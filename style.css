@@ -1,0 +1,116 @@
+
+  
+  
+.button1{
+    border: 2px solid rgba(0, 68, 195, 0.818);
+    color: rgba(0, 72, 206, 0.818) ;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 50px;
+    padding: 15px;
+    /* margin-left: -15px; */
+    font-size: 15px;
+
+}.button2{
+  border: none;
+    background-color: rgba(240, 248, 255, 0);
+    color: black;
+    padding: 15px;
+    border-radius: 50px;
+    font-size: 15px;
+}.button2:hover{
+    background-color: rgba(224, 221, 221, 0.508);
+    color: black;
+    border-radius: 50px;
+    border: none;
+    font-size: 16px;
+    transition: 0.3s;
+}.button1:hover{
+    font-size: 16px;
+    transition: 0.3s;
+
+}.icon{
+    display: flex;
+}.icons{
+    margin: 5px;
+    text-align: center;
+}.icons a{
+    color: rgb(99, 98, 98);
+    font-size: 20px;
+    text-decoration: none;
+    display: block;
+
+}.icons p{
+    font-size: 15px;
+}.icon a:hover{
+    color: black;
+}.text{
+   
+    font-size: 30px;
+    
+    
+}.text a{
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}.sn{
+    color: aliceblue;
+    background-color: rgb(77, 77, 229);
+    font-size: 40px;
+
+    
+}.sn:hover{
+    text-decoration: none;
+}nav{
+    margin-left: 100px;
+
+}.contant{
+    
+    display: flex;
+    margin-top: 50px;
+   
+   
+}.contant img{
+    
+    width: 110%;
+    border: 3px solid rgb(255, 255, 255);
+}.forms{
+  
+    width: 70%;
+    height:500px;
+    display: block;
+    margin-left: 100px;
+    margin-top: 40px;
+}.input{
+    display: block;
+    width: 100%;
+    text-align: end;
+    padding: 25px;
+    
+}.button3{
+    padding: 12px;
+    width: 95%;
+    
+}.inp{
+    padding: 27px;
+   
+}.textIN{
+    padding:0 27px;
+    text-align: end;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
